@@ -106,6 +106,7 @@ int kiekZmoniu(int ran);
 void randa(Zmogus *masyvas, int kiek);
 
 int main()
+    cout<<"Hello world"<<endl;
 {
     int kiek = 0;
     int dabartinis = 0;
